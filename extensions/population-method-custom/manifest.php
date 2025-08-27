@@ -5,12 +5,10 @@
 $manifest = array();
 
 $manifest['name']        = __( 'Population Method - Custom', 'fw' );
-$manifest['slug']        = 'unysonplus-population-method-custom';
 $manifest['description'] = __( 'Population Method - Custom', 'fw' );
 
 $manifest['version']     = '1.0.0';
-$manifest['display']     = true;
-$manifest['standalone']  = true;
+$manifest['display']     = 'slider';
 
 // Author Info
 $manifest['author']     = 'UnysonPlus';

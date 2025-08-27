@@ -3,12 +3,10 @@
 $manifest = array();
 
 $manifest['name']        = __( 'Population Method - Categories', 'fw' );
-$manifest['slug']        = 'unysonplus-population-method-categories';
 $manifest['description'] = __( 'Population Method - Categories', 'fw' );
 
 $manifest['version']     = '1.0.0';
 $manifest['display']     = 'slider';
-$manifest['standalone']  = true;
 
 // Author Info
 $manifest['author']     = 'UnysonPlus';

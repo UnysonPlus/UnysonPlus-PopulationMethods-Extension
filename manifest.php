@@ -4,12 +4,9 @@ $manifest = array();
 
 // Basic Info
 $manifest['name']        = __( 'Population Methods', 'fw' );
-$manifest['slug']        = 'unysonplus-population-methods';
 $manifest['description'] = __( 'Provides multiple population methods (Posts, Tags, Custom, Categories, etc.) for sliders and other extensions.', 'fw' );
 
-$manifest['version']     = '1.0.20';
-$manifest['display']     = true;
-$manifest['standalone']  = true;
+$manifest['version']     = '1.0.21';
 
 // Repository Info
 $manifest['github_update'] = 'UnysonPlus/UnysonPlus-PopulationMethods-Extension';
